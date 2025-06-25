@@ -17,7 +17,7 @@ Analysis code for "The Challenge of Choosing a Negative Control: A Behavioural a
 Loss-of-Function (LOF) analyses have been pivotal in the discovery of genetic function in biological processes. However, phenotypic variation can occur between different supposedly LOF alleles of the same gene. We investigated the body of research surrounding the nematode ortholog of the Calcium/Calmodulin-dependent protein Kinase II (CAMKII), unc-43, because of its relevance in a large range of biological functions. Our analysis shows that published findings on unc-43 function were obtained from studies using numerous loss-of-function alleles, leading to potential challenges in aligning research findings. We investigated the similarity of these putative loss-of-function (LOF) mutations by using the Multi-Worm Tracker (Swierczek et al., 2011) to phenotype nine LOF alleles across 27 phenotypes, spanning morphology, baseline locomotion and habituation learning and memory. Interestingly, our study reveals significant differences in phenotypes for these LOF alleles. From our data, we have identified the three putative LOF alleles with the most severe and similar phenotypes propose for two of them (n498n1186 and js125) to be regarded as reference alleles to streamline future research on unc-43 function. This data will help future researchers optimise their research of unc-43 function and determine how to choose a strain/strains to use as a negative control. 
 # Getting Started
 
-Make sure you have Python installed with the requirements listed below. Raw or preprocessed data can be obtained from the OSF repository for this project.
+Make sure you have Python installed with the requirements listed below. Raw or preprocessed data can be obtained from the [OSF repository](https://osf.io/znm4v/?view_only=2d429f7cb18d4f3a8dda606ba0d6d481) for this project.
 
 # Prerequisites
 
@@ -31,7 +31,7 @@ Please report any missing dependencies/requirements by opening an issue on this 
 
 # Data
 
-Raw or preprocessed data can be obtained from the OSF repository for this project.
+Raw or preprocessed data can be obtained from the [OSF repository](https://osf.io/znm4v/?view_only=2d429f7cb18d4f3a8dda606ba0d6d481) for this project.
 
 # Contact
 
